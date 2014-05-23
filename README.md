@@ -16,6 +16,6 @@ so just add gropdocs in the end of that 2 properties after comma.
 
 
 ###[Sign, Manage, Annotate, Assemble, Compare and Convert Documents with GroupDocs](http://groupdocs.com)
-* [See source code for GroupDocs Viewer for .NET plugin for Radiant CMS](https://github.com/groupdocs/tinymce-groupdocs-viewer-dotnet-source)
+* [See package for GroupDocs Viewer for .NET plugin for Radiant CMS](https://github.com/groupdocs/tinymce-groupdocs-viewer-dotnet)
 
 ###Created by [GroupDocs Marketplace Team](http://groupdocs.com/marketplace/).
