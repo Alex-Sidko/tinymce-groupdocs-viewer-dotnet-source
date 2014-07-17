@@ -3,7 +3,7 @@
 
 GroupDocs Viewer for .NET plugin for TinyMCE
 
-With GroupDocs Viewer for .NET plugin for TinyMCE you can easily view on [annotate on PDF's](http://groupdocs.com/apps/Viewer for .NET), Word documents, Excel documents, Powerpoint documents and more with the GroupDocs Viewer for .NET tool, directly from within your TinyMCE website.
+With GroupDocs Viewer for .NET plugin for TinyMCE you can easily view on [annotate on PDF's](http://groupdocs.com/dot-net/document-annotation-library), Word documents, Excel documents, Powerpoint documents and more with the GroupDocs Viewer for .NET tool, directly from within your TinyMCE website.
 
 ###Installation Instuctions
 
@@ -18,4 +18,4 @@ so just add gropdocs in the end of that 2 properties after comma.
 ###[Sign, Manage, Annotate, Assemble, Compare and Convert Documents with GroupDocs](http://groupdocs.com)
 * [See package for GroupDocs Viewer for .NET plugin for Radiant CMS](https://github.com/groupdocs/tinymce-groupdocs-viewer-dotnet)
 
-###Created by [GroupDocs Marketplace Team](http://groupdocs.com/marketplace/).
+###Created by [GroupDocs Marketplace Team](http://groupdocs.com/marketplace).
